@@ -1,0 +1,2 @@
+# Smart Essay Grader
+Smart Essay Grader is a cutting-edge application designed for grading short essay tests following lectures, providing an efficient and intelligent assessment tool for educators. Inspired by the need for streamlined grading processes and leveraging the power of Google's Generative AI tools and Langchain, this project aims to simplify and enhance the grading experience for both teachers and students.
