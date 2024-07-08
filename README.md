@@ -5,7 +5,7 @@
 SmartEssayGrader is a cutting-edge application designed to grade short essay tests following lectures, providing an efficient and intelligent assessment tool for educators. Inspired by the need for streamlined grading processes and leveraging the power of Google's Generative AI tools and Langchain, this project aims to simplify and enhance the grading experience for both teachers and students.
 
 ## Submitted To
-![Google AI Hackathon](https://devpost.com/software/exam-evaluation-portal)
+[Google AI Hackathon]([https://youtu.be/XJIhqYXTHoc](https://devpost.com/software/exam-evaluation-portal))
 
 ## How We Built the Project
 
