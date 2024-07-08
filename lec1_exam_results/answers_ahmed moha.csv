@@ -1,0 +1,3 @@
+Question,Student Answer,Evaluation,Explanation Error
+Explain the concept of feature scaling in machine learning.,"the process of normalizing the range of features in a dataset. Real-world datasets often contain features that are varying in degrees of magnitude, range, and units. Therefore, in order for machine learning models to interpret these features on the same scale, we need to perform feature scaling.",1.0,
+Define precision and recall in the context of classification models.,Precision shows how often an ML model is correct when predicting the target class. Recall shows whether an ML model can find all objects of the target class.,1.0,

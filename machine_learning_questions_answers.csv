@@ -1,0 +1,6 @@
+Question,Answer
+What is the difference between supervised and unsupervised learning?,"Supervised learning uses labeled data, while unsupervised learning uses unlabeled data for training."
+What is overfitting in machine learning?,"Overfitting occurs when a model learns the training data too well, capturing noise and irrelevant patterns, leading to poor performance on unseen data."
+Explain the concept of feature scaling in machine learning.,"Feature scaling is the process of normalizing or standardizing the features in the dataset to ensure that they have similar scales, preventing features with larger scales from dominating the learning process."
+What is the purpose of cross-validation in machine learning?,"Cross-validation is a technique used to assess the performance of a machine learning model by dividing the dataset into multiple subsets, training the model on some subsets, and testing it on others to ensure its generalization capability."
+Define precision and recall in the context of classification models.,"Precision measures the accuracy of positive predictions made by the model, while recall measures the ability of the model to identify all relevant instances in the dataset."

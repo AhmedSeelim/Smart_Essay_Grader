@@ -1,0 +1,3 @@
+Question,Student Answer,Evaluation,Explanation Error
+What is overfitting in machine learning?,"Overfitting is a common problem in machine learning where a model learns the training data too well to the extent that it negatively impacts its performance on unseen data. In other words, the model captures noise or random fluctuations in the training data as if they were genuine patterns.",1.0,
+Explain the concept of feature scaling in machine learning.,Feature scaling is a preprocessing step in machine learning that involves transforming the features of a dataset into a similar scale. ,1.0,

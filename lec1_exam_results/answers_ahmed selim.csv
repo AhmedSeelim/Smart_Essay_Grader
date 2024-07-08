@@ -1,0 +1,4 @@
+Question,Student Answer,Evaluation,Explanation Error
+Define precision and recall in the context of classification models.,Precision is a performance metric used in binary classification tasks to evaluate the accuracy of positive predictions made by a model.,0.5,The answer is incomplete as it only defines precision but does not mention recall.
+Explain the concept of feature scaling in machine learning.,"
+Feature scaling is a preprocessing step in machine learning that involves transforming the features of a dataset into a similar scale.",1.0,
