@@ -21,7 +21,7 @@ class Exam:
         self.vectordb = FAISS.from_documents(documents=self.data, embedding=self.instructor_embeddings)
         self.retriever = self.vectordb.as_retriever(score_threshold=0.7)
         if "GOOGLE_API_KEY" not in os.environ:
-            os.environ["GOOGLE_API_KEY"] = "AIzaSyC2UHXCocEIWVOSFXRX3_dWzBdR4j0kpI8"
+            os.environ["GOOGLE_API_KEY"] = "YOUR_GOOGLE_API_KEY"
         self.llm = ChatGoogleGenerativeAI(model="gemini-pro", temperature=0.3)
 
     def answer_corrector(self, question, answer, instructions="There are no specific instructions"):
